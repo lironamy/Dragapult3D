@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gameboy Color Pokemon Edition
+* source:	https://sketchfab.com/3d-models/gameboy-color-pokemon-edition-38f46f3fb61340c6942ab72ff529bdfd
+* author:	NeaKaufeldt (https://sketchfab.com/NeaKaufeldt)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gameboy Color Pokemon Edition" (https://sketchfab.com/3d-models/gameboy-color-pokemon-edition-38f46f3fb61340c6942ab72ff529bdfd) by NeaKaufeldt (https://sketchfab.com/NeaKaufeldt) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
