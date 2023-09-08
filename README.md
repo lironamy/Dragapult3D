@@ -35,7 +35,6 @@ To get started with Dragapult 3D, follow these steps:
 
 2. Install the necessary dependencies:
 
-    cd 3dpokemon
     npm install
 
 3. Run the development server:
